@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project01_ApiDemo", "NetCoreAI.Project01_ApiDemo\NetCoreAI.Project01_ApiDemo.csproj", "{449ABF7B-8AF0-43FD-AD88-D0E6DC536E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project02_ApiConsumeUI", "NetCoreAI.Project02_ApiConsumeUI\NetCoreAI.Project02_ApiConsumeUI.csproj", "{E4F1FD05-6414-4CAA-9D26-6EDB82D52294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project03_RapidApi", "NetCoreAI.Project03_RapidApi\NetCoreAI.Project03_RapidApi.csproj", "{5CBB4193-FC34-42FD-BB5E-101939C15577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449ABF7B-8AF0-43FD-AD88-D0E6DC536E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449ABF7B-8AF0-43FD-AD88-D0E6DC536E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449ABF7B-8AF0-43FD-AD88-D0E6DC536E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449ABF7B-8AF0-43FD-AD88-D0E6DC536E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F1FD05-6414-4CAA-9D26-6EDB82D52294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F1FD05-6414-4CAA-9D26-6EDB82D52294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F1FD05-6414-4CAA-9D26-6EDB82D52294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F1FD05-6414-4CAA-9D26-6EDB82D52294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBB4193-FC34-42FD-BB5E-101939C15577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBB4193-FC34-42FD-BB5E-101939C15577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBB4193-FC34-42FD-BB5E-101939C15577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBB4193-FC34-42FD-BB5E-101939C15577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
