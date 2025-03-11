@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project09_OpenAIT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project10_TextToSpeech", "NetCoreAI.Project10_TextToSpeech\NetCoreAI.Project10_TextToSpeech.csproj", "{7E87A425-CC5D-4406-91D4-79DB4100F73D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project11_TextToSpeechWithOpenAI", "NetCoreAI.Project11_TextToSpeechWithOpenAI\NetCoreAI.Project11_TextToSpeechWithOpenAI.csproj", "{0626E4D1-125A-4E04-8062-145202092912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project12_SentimentAI", "NetCoreAI.Project12_SentimentAI\NetCoreAI.Project12_SentimentAI.csproj", "{A4313B52-0200-43DE-9898-4554A9116BCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{7E87A425-CC5D-4406-91D4-79DB4100F73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E87A425-CC5D-4406-91D4-79DB4100F73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E87A425-CC5D-4406-91D4-79DB4100F73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0626E4D1-125A-4E04-8062-145202092912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0626E4D1-125A-4E04-8062-145202092912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0626E4D1-125A-4E04-8062-145202092912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0626E4D1-125A-4E04-8062-145202092912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4313B52-0200-43DE-9898-4554A9116BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4313B52-0200-43DE-9898-4554A9116BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4313B52-0200-43DE-9898-4554A9116BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4313B52-0200-43DE-9898-4554A9116BCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
