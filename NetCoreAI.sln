@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project11_TextToS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project12_SentimentAI", "NetCoreAI.Project12_SentimentAI\NetCoreAI.Project12_SentimentAI.csproj", "{A4313B52-0200-43DE-9898-4554A9116BCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project13_SentimentAIWithDegree", "NetCoreAI.Project13_SentimentAIWithDegree\NetCoreAI.Project13_SentimentAIWithDegree.csproj", "{A65D10E7-0F45-43A8-BC04-722479CF1927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{A4313B52-0200-43DE-9898-4554A9116BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4313B52-0200-43DE-9898-4554A9116BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4313B52-0200-43DE-9898-4554A9116BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65D10E7-0F45-43A8-BC04-722479CF1927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65D10E7-0F45-43A8-BC04-722479CF1927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65D10E7-0F45-43A8-BC04-722479CF1927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65D10E7-0F45-43A8-BC04-722479CF1927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
